@@ -1,0 +1,5 @@
+requests==2.31.0
+cloudscraper==1.2.71
+scapy==2.5.0
+icmplib==3.0.3
+PySocks==1.7.1
